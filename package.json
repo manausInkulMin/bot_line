@@ -1,0 +1,9 @@
+{
+  "name": "js-atafxq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jquery": "^3.6.0"
+  }
+}
